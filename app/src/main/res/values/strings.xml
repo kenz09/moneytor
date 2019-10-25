@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Moneytor</string>
+    <string name="activityInputFormName">Input Form</string>
+    <string name="userTotalMoney">0</string>
+    <string name="userTotalDebt">0</string>
+    <string name="userTotalReceivable">0</string>
+    <string name="title_activity_person_view">PersonView</string>
+</resources>
